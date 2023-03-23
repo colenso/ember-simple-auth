@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "name": "ember-simple-auth",
   "repository": "https://github.com/mainmatter/ember-simple-auth",
   "scripts": {
     "changelog": "lerna-changelog",
